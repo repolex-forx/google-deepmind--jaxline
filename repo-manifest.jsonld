@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/jaxline/commit/a2308d62191dbe0768ef3676a45d307a3595be82",
       "git:hexsha": "a2308d62191dbe0768ef3676a45d307a3595be82",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
